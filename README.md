@@ -19,7 +19,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local:
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone [URL del repositorio]
+    git clone https://github.com/Santiagopt97/prueba_laravel
     ```
 
 2. Navega al directorio del proyecto:
